@@ -1,4 +1,4 @@
-### Hello, I'm JR! 👋
+### Hello, I'm John Rodel Misagrande! 👋
 
 <img src="https://api3.iloveimg.com/v1/download/f9m4njptf36vb6A4ldAnhph22hfsfvg5cAndvvmh9rjA92wgsv6w9ltbrl8yhkyl9v3wvw9h3yktd7dpj57krpr80c7264hqk3pqwcwn0A232y9gjqhnqwAhA6bbvqkjbjx3fp3As3wdwprw6j3cr1s8gjcxny53zm1gyn8jwlptrv79x551">
 
