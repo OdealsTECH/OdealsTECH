@@ -1,6 +1,6 @@
 ### Hello, I'm John Rodel Misagrande! 👋
 
-<img src="https://api3.iloveimg.com/v1/download/f9m4njptf36vb6A4ldAnhph22hfsfvg5cAndvvmh9rjA92wgsv6w9ltbrl8yhkyl9v3wvw9h3yktd7dpj57krpr80c7264hqk3pqwcwn0A232y9gjqhnqwAhA6bbvqkjbjx3fp3As3wdwprw6j3cr1s8gjcxny53zm1gyn8jwlptrv79x551">
+<img src="https://export-download.canva.com/Jjo4U/DAFJirJjo4U/9/0/0001-33057342746.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220816%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220816T092454Z&X-Amz-Expires=70544&X-Amz-Signature=b7705e10ed7816c3aa535c18ffc16762bb016303ecbfff87a7ce2add8b5d134f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ODEALSTECH.jpg&response-expires=Wed%2C%2017%20Aug%202022%2005%3A00%3A38%20GMT">
 
 - 🔭 I’m currently working on Programming and Developing Website.
 - 🌱 I’m currently learning Java and HTLM & CSS
