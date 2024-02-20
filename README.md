@@ -4,11 +4,10 @@
 
 - 🔭 I’m currently working on Programming and Developing Website.
 - 🌱 I’m currently learning Java and HTLM & CSS
-- 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with Improving my programming skills.
 - 💬 Ask me about ...
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: i like playing basketball alone in the rain.
+- ⚡ Fun fact: i like playing basketball.
 
 -📫 How to reach me on FB: John Rodel Anescal Misagrande
 
